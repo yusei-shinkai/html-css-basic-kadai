@@ -1,10 +1,9 @@
 html{   
-    font: size 20px;;
+    font-size :20px;
 }
 body{   
     font-family: "Arial", "Meiryo", sans-serif;
     text-align: center;
-    text-shadow: 1px 1px 5px black;
 }
 
 #basic p{
@@ -12,9 +11,10 @@ body{
 }
 h1{ 
     font-family: "Josefin Sans", sans-serif;
-    font-size: 2rem;
+    font-size: 2em;
     letter-spacing: 1.2rem;
     border-bottom: solid rgb(115, 115, 114);
+    text-shadow: 1px 1px 5px black;
 }
 .M_color{
     color: skyblue;
